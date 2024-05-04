@@ -1,0 +1,14 @@
+/home/shivam/Code/C#/CsAssignment/bin/Debug/net8.0/CsAssignment
+/home/shivam/Code/C#/CsAssignment/bin/Debug/net8.0/CsAssignment.deps.json
+/home/shivam/Code/C#/CsAssignment/bin/Debug/net8.0/CsAssignment.runtimeconfig.json
+/home/shivam/Code/C#/CsAssignment/bin/Debug/net8.0/CsAssignment.dll
+/home/shivam/Code/C#/CsAssignment/bin/Debug/net8.0/CsAssignment.pdb
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.AssemblyInfoInputs.cache
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.AssemblyInfo.cs
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.csproj.CoreCompileInputs.cache
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.dll
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/refint/CsAssignment.dll
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.pdb
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/CsAssignment.genruntimeconfig.cache
+/home/shivam/Code/C#/CsAssignment/obj/Debug/net8.0/ref/CsAssignment.dll
